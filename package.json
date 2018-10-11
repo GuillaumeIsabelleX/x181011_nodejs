@@ -6,7 +6,7 @@
   "dependencies": {},
   "devDependencies": {},
   "scripts": {
-    "test": "start"
+    "test": "/Users/caroline/Downloads/node-v10.12.0/node app.js"
   },
   "repository": {
     "type": "git",
